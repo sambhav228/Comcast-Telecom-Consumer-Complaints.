@@ -1,5 +1,5 @@
 # Comcast-Telecom-Consumer-Complaints.
-Data Science with R Programming(Simplilearn)
+Data Science with R Programming(Simplilearn course)
 
 ## DESCRIPTION
 
